@@ -2,7 +2,10 @@ package busqueda;
 
 import java.util.Scanner;
 import javax.swing.JOptionPane;
-
+/**
+ * 
+ * @author Aaron
+ */
 public class Busqueda {
 
     public static void main(String[] args) {
